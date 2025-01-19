@@ -1,0 +1,2566 @@
+/* 전체 리셋 */
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+.frame-1-first-sample-portfolio {
+  width: 1440px;
+  height: 3547px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  overflow: hidden;
+  background: #111827;
+}
+.frame-1-first-sample-portfolio .main {
+  position: absolute;
+  top: 0.05px;
+  left: 0px;
+  width: 1440px;
+  height: 3423px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 872px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 128px 0px 80px 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div {
+  position: absolute;
+  top: 128px;
+  left: 0px;
+  width: 1440px;
+  height: 664px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 {
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  width: 1376px;
+  height: 664px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 {
+  position: absolute;
+  top: 203px;
+  left: 0px;
+  width: 664px;
+  height: 258px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .h1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 664px;
+  height: 96px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .h1 .full-stack-developer {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 442px;
+  height: 48px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .h1 .br {
+  position: absolute;
+  top: -5px;
+  left: 441.22px;
+  width: 0.01px;
+  height: 57px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .h1 .building-digital-experiences {
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  width: 603px;
+  height: 48px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 48px;
+  line-height: 48px;
+  font-weight: 700;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .p {
+  position: absolute;
+  top: 120px;
+  left: 0px;
+  width: 664px;
+  height: 56px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .p .passionate-about-creating-innovative-web-solutions-with-modern-technologies-specialized-in-react-nodejs-and-cloud-architecture {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 592px;
+  height: 56px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .div-3 {
+  position: absolute;
+  top: 208px;
+  left: 0px;
+  width: 664px;
+  height: 50px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  column-gap: 16px;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .div-3 .a {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 146.13px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 12px 24px 12px 24px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .div-3 .a .view-projects {
+  position: absolute;
+  top: 12px;
+  left: 24px;
+  width: 99px;
+  height: 24px;
+  white-space: nowrap;
+  color: #FFFFFF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .div-3 .a-1 {
+  position: absolute;
+  top: 0px;
+  left: 162.13px;
+  width: 132.7px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 12px 24px 12px 24px;
+  background: rgba(0, 0, 0, 0);
+  border: 1px solid #374151;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-2 .div-3 .a-1 .contact-me {
+  position: absolute;
+  top: 13px;
+  left: 25px;
+  width: 83px;
+  height: 24px;
+  white-space: nowrap;
+  color: #D1D5DB;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-4 {
+  position: absolute;
+  top: 0px;
+  left: 712px;
+  width: 664px;
+  height: 664px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .hero .div .div-1 .div-4 .img {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 664px;
+  height: 664px;
+  border-radius: 8px;
+  background: url('../assets/IMG-2.png'), rgba(0, 0, 0, 0);
+  object-fit: cover;
+  background-size: cover;
+}
+.frame-1-first-sample-portfolio .main .projects {
+  position: absolute;
+  top: 872px;
+  left: 0px;
+  width: 1440px;
+  height: 652px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 80px 0px 80px 0px;
+  background: rgba(31, 41, 55, 0.5);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  width: 1440px;
+  height: 492px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .h2 {
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  width: 1376px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .h2 .featured-projects {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 239px;
+  height: 36px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 {
+  position: absolute;
+  top: 84px;
+  left: 32px;
+  width: 1376px;
+  height: 408px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 437.33px;
+  height: 408px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #1F2937;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .img-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 437.33px;
+  height: 192px;
+  background: url('../assets/IMG-6.png'), rgba(0, 0, 0, 0);
+  object-fit: cover;
+  background-size: cover;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 {
+  position: absolute;
+  top: 192px;
+  left: 0px;
+  width: 437.33px;
+  height: 216px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .h3 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 389.33px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .h3 .e-commerce-platform {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 198px;
+  height: 28px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .p-1 {
+  position: absolute;
+  top: 60px;
+  left: 24px;
+  width: 389.33px;
+  height: 48px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .p-1 .full-stack-e-commerce-solution-with-react-nodejs-and-mongodb {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 366px;
+  height: 48px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 {
+  position: absolute;
+  top: 124px;
+  left: 24px;
+  width: 389.33px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  column-gap: 8px;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 .span {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 59.56px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 .span .react {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 36px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 .span-1 {
+  position: absolute;
+  top: 0px;
+  left: 67.56px;
+  width: 71.53px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 .span-1 .nodejs {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 48px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 .span-2 {
+  position: absolute;
+  top: 0px;
+  left: 147.09px;
+  width: 85.67px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .div-9 .span-2 .mongodb {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 62px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .a-2 {
+  position: absolute;
+  top: 168px;
+  left: 24px;
+  width: 111.88px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .a-2 .view-project {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 24px;
+  white-space: nowrap;
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-7 .div-8 .a-2 .svg {
+  position: absolute;
+  top: 3.95px;
+  left: 97px;
+  width: 14px;
+  height: 16px;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 {
+  position: absolute;
+  top: 0px;
+  left: 469.33px;
+  width: 437.33px;
+  height: 408px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #1F2937;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .img-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 437.33px;
+  height: 192px;
+  background: url('../assets/IMG-5.png'), rgba(0, 0, 0, 0);
+  object-fit: cover;
+  background-size: cover;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 {
+  position: absolute;
+  top: 192px;
+  left: 0px;
+  width: 437.33px;
+  height: 216px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .h3-1 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 389.33px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .h3-1 .social-media-app {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 157px;
+  height: 28px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .p-2 {
+  position: absolute;
+  top: 60px;
+  left: 24px;
+  width: 389.33px;
+  height: 48px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .p-2 .real-time-social-platform-with-react-native-and-firebase {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 337px;
+  height: 48px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 {
+  position: absolute;
+  top: 124px;
+  left: 24px;
+  width: 389.33px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  column-gap: 8px;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 .span-3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 102.7px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 .span-3 .react-native {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 79px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 .span-4 {
+  position: absolute;
+  top: 0px;
+  left: 110.7px;
+  width: 77.27px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 .span-4 .firebase {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 54px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 .span-5 {
+  position: absolute;
+  top: 0px;
+  left: 195.97px;
+  width: 62.59px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .div-12 .span-5 .redux {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 39px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .a-3 {
+  position: absolute;
+  top: 168px;
+  left: 24px;
+  width: 111.88px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .a-3 .view-project-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 24px;
+  white-space: nowrap;
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-10 .div-11 .a-3 .svg-1 {
+  position: absolute;
+  top: 3.95px;
+  left: 97.67px;
+  width: 14px;
+  height: 16px;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 {
+  position: absolute;
+  top: 0px;
+  left: 938.66px;
+  width: 437.34px;
+  height: 408px;
+  border-radius: 8px;
+  overflow: hidden;
+  background: #1F2937;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .img-3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 437.34px;
+  height: 192px;
+  background: url('../assets/IMG-3.png'), rgba(0, 0, 0, 0);
+  object-fit: cover;
+  background-size: cover;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 {
+  position: absolute;
+  top: 192px;
+  left: 0px;
+  width: 437.34px;
+  height: 192px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .h3-2 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 389.34px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .h3-2 .ai-analytics-dashboard {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 209px;
+  height: 28px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .p-3 {
+  position: absolute;
+  top: 60px;
+  left: 24px;
+  width: 389.34px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .p-3 .machine-learning-powered-analytics-platform {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 320px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 {
+  position: absolute;
+  top: 100px;
+  left: 24px;
+  width: 389.34px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  column-gap: 8px;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 .span-6 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 67.56px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 .span-6 .python {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 44px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 .span-7 {
+  position: absolute;
+  top: 0px;
+  left: 75.56px;
+  width: 96.41px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 .span-7 .tensorflow {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 73px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 .span-8 {
+  position: absolute;
+  top: 0px;
+  left: 179.97px;
+  width: 62.11px;
+  height: 28px;
+  border-radius: 9999px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 4px 12px 4px 12px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .div-15 .span-8 .vuejs {
+  position: absolute;
+  top: 4px;
+  left: 12px;
+  width: 39px;
+  height: 20px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 14px;
+  line-height: 20px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .a-4 {
+  position: absolute;
+  top: 144px;
+  left: 24px;
+  width: 111.88px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .a-4 .view-project-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 90px;
+  height: 24px;
+  white-space: nowrap;
+  color: #000000;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+}
+.frame-1-first-sample-portfolio .main .projects .div-5 .div-6 .div-13 .div-14 .a-4 .svg-2 {
+  position: absolute;
+  top: 3.95px;
+  left: 97.34px;
+  width: 14px;
+  height: 16px;
+}
+.frame-1-first-sample-portfolio .main .skills {
+  position: absolute;
+  top: 1524px;
+  left: 0px;
+  width: 1440px;
+  height: 484px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 80px 0px 80px 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  width: 1440px;
+  height: 324px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .h2-1 {
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  width: 1376px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .h2-1 .skills--technologies {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 289px;
+  height: 36px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 {
+  position: absolute;
+  top: 84px;
+  left: 32px;
+  width: 1376px;
+  height: 240px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 437.33px;
+  height: 240px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 24px;
+  background: #1F2937;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .h3-3 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 389.33px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .h3-3 .frontend {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 81px;
+  height: 28px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 {
+  position: absolute;
+  top: 76px;
+  left: 24px;
+  width: 389.33px;
+  height: 140px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-21 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-21 .span-9 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 40.64px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-21 .span-9 .react-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 41px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-21 .span-10 {
+  position: absolute;
+  top: 0px;
+  left: 359.64px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-21 .span-10 .text-90 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-22 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.33px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-20 .div-22 .div-23 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 350.39px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 {
+  position: absolute;
+  top: 52px;
+  left: 0px;
+  width: 389.33px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-25 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-25 .span-11 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 43.55px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-25 .span-11 .vuejs-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 44px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-25 .span-12 {
+  position: absolute;
+  top: 0px;
+  left: 359.64px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-25 .span-12 .text-85 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-26 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.33px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-24 .div-26 .div-27 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 330.92px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 {
+  position: absolute;
+  top: 104px;
+  left: 0px;
+  width: 389.33px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-29 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-29 .span-13 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 75.38px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-29 .span-13 .typescript {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 76px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-29 .span-14 {
+  position: absolute;
+  top: 0px;
+  left: 359.64px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-29 .span-14 .text-80 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-30 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.33px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-18 .div-19 .div-28 .div-30 .div-31 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 311.45px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 {
+  position: absolute;
+  top: 0px;
+  left: 469.33px;
+  width: 437.33px;
+  height: 240px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 24px;
+  background: #1F2937;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .h3-4 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 389.33px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .h3-4 .backend {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 78px;
+  height: 28px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 {
+  position: absolute;
+  top: 76px;
+  left: 24px;
+  width: 389.33px;
+  height: 140px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-35 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-35 .span-15 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 54.31px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-35 .span-15 .nodejs-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 55px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-35 .span-16 {
+  position: absolute;
+  top: 0px;
+  left: 359.64px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-35 .span-16 .text-86 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-36 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.33px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-34 .div-36 .div-37 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 330.92px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 {
+  position: absolute;
+  top: 52px;
+  left: 0px;
+  width: 389.33px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-39 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-39 .span-17 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 49.78px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-39 .span-17 .python-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-39 .span-18 {
+  position: absolute;
+  top: 0px;
+  left: 359.64px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-39 .span-18 .text-75 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-40 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.33px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-38 .div-40 .div-41 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 291.98px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 {
+  position: absolute;
+  top: 104px;
+  left: 0px;
+  width: 389.33px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-43 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.33px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-43 .span-19 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 62.11px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-43 .span-19 .graphql {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 63px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-43 .span-20 {
+  position: absolute;
+  top: 0px;
+  left: 359.64px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-43 .span-20 .text-70 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-44 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.33px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-32 .div-33 .div-42 .div-44 .div-45 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 272.52px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 {
+  position: absolute;
+  top: 0px;
+  left: 938.66px;
+  width: 437.34px;
+  height: 240px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 24px;
+  background: #1F2937;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .h3-5 {
+  position: absolute;
+  top: 24px;
+  left: 24px;
+  width: 389.34px;
+  height: 28px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .h3-5 .tools--others {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 132px;
+  height: 28px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 20px;
+  line-height: 28px;
+  font-weight: 600;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 {
+  position: absolute;
+  top: 76px;
+  left: 24px;
+  width: 389.34px;
+  height: 140px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.34px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-49 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.34px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-49 .span-21 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 20.02px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-49 .span-21 .git {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 21px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-49 .span-22 {
+  position: absolute;
+  top: 0px;
+  left: 359.66px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-49 .span-22 .text-95 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-50 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.34px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-48 .div-50 .div-51 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 369.88px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 {
+  position: absolute;
+  top: 52px;
+  left: 0px;
+  width: 389.34px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-53 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.34px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-53 .span-23 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 49.84px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-53 .span-23 .docker {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 50px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-53 .span-24 {
+  position: absolute;
+  top: 0px;
+  left: 359.66px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-53 .span-24 .text-81 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-54 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.34px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-52 .div-54 .div-55 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 311.47px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 {
+  position: absolute;
+  top: 104px;
+  left: 0px;
+  width: 389.34px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-57 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 389.34px;
+  height: 24px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-57 .span-25 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 33.59px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-57 .span-25 .aws {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 34px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-57 .span-26 {
+  position: absolute;
+  top: 0px;
+  left: 359.66px;
+  width: 29.69px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-57 .span-26 .text-76 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 30px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-58 {
+  position: absolute;
+  top: 28px;
+  left: 0px;
+  width: 389.34px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #374151;
+}
+.frame-1-first-sample-portfolio .main .skills .div-16 .div-17 .div-46 .div-47 .div-56 .div-58 .div-59 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 292px;
+  height: 8px;
+  border-radius: 9999px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .about {
+  position: absolute;
+  top: 2008px;
+  left: 0px;
+  width: 1440px;
+  height: 824px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 80px 0px 80px 0px;
+  background: rgba(31, 41, 55, 0.5);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  width: 1440px;
+  height: 664px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 {
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  width: 1376px;
+  height: 664px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 {
+  position: absolute;
+  top: 178px;
+  left: 712px;
+  width: 664px;
+  height: 308px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .h2-2 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 664px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .h2-2 .about-me {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 131px;
+  height: 36px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .p-4 {
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  width: 664px;
+  height: 96px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .p-4 .im-a-passionate-full-stack-developer-with-over-5-years-of-experience-building-web-applications-i-specialize-in-creating-scalable-solutions-using-modern-technologies-and-best-practices-my-approach-combines-technical-expertise-with-creative-problem-solving-to-deliver-exceptional-user-experiences {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 659px;
+  height: 96px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .p-5 {
+  position: absolute;
+  top: 180px;
+  left: 0px;
+  width: 664px;
+  height: 48px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .p-5 .currently-working-on-exciting-projects-involving-ai-integration-and-cloud-architecture-im-always-eager-to-learn-new-technologies-and-take-on-challenging-projects {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 625px;
+  height: 48px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .button {
+  position: absolute;
+  top: 260px;
+  left: 0px;
+  width: 205.45px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  padding: 12px 24px 12px 24px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .button .svg-3 {
+  position: absolute;
+  top: 15.95px;
+  left: 24px;
+  width: 16px;
+  height: 16px;
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-62 .button .download-resume {
+  position: absolute;
+  top: 12px;
+  left: 47.73px;
+  width: 134px;
+  height: 24px;
+  white-space: nowrap;
+  color: #FFFFFF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  text-align: center;
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-63 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 664px;
+  height: 664px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .about .div-60 .div-61 .div-63 .img-4 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 664px;
+  height: 664px;
+  border-radius: 8px;
+  background: url('../assets/IMG-4.png'), rgba(0, 0, 0, 0);
+  object-fit: cover;
+  background-size: cover;
+}
+.frame-1-first-sample-portfolio .main .contact {
+  position: absolute;
+  top: 2832px;
+  left: 0px;
+  width: 1440px;
+  height: 591px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 80px 0px 80px 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 {
+  position: absolute;
+  top: 80px;
+  left: 0px;
+  width: 1440px;
+  height: 431px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 {
+  position: absolute;
+  top: 0px;
+  left: 336px;
+  width: 768px;
+  height: 431px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .h2-3 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 36px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .h2-3 .get-in-touch {
+  position: absolute;
+  top: 0px;
+  left: 299.5px;
+  width: 169px;
+  height: 36px;
+  white-space: nowrap;
+  color: #F3F4F6;
+  font-family: "Roboto";
+  font-size: 30px;
+  line-height: 36px;
+  font-weight: 700;
+  text-align: center;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .p-6 {
+  position: absolute;
+  top: 60px;
+  left: 0px;
+  width: 768px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .p-6 .have-a-project-in-mind-lets-work-together-to-create-something-amazing {
+  position: absolute;
+  top: 0px;
+  left: 123.49px;
+  width: 521px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+  text-align: center;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form {
+  position: absolute;
+  top: 132px;
+  left: 0px;
+  width: 768px;
+  height: 299px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .div-66 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 768px;
+  height: 50px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .div-66 .input {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 372px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 12px 16px 12px 16px;
+  overflow: hidden;
+  background: #1F2937;
+  border: 1px solid #374151;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .div-66 .input .name {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  width: 43px;
+  height: 24px;
+  white-space: nowrap;
+  color: #6B7280;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .div-66 .input-1 {
+  position: absolute;
+  top: 0px;
+  left: 396px;
+  width: 372px;
+  height: 50px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 12px 16px 12px 16px;
+  overflow: hidden;
+  background: #1F2937;
+  border: 1px solid #374151;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .div-66 .input-1 .email {
+  position: absolute;
+  top: 13px;
+  left: 16px;
+  width: 40px;
+  height: 24px;
+  white-space: nowrap;
+  color: #6B7280;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .textarea {
+  position: absolute;
+  top: 74px;
+  left: 0px;
+  width: 768px;
+  height: 146px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 12px 16px 12px 16px;
+  overflow: hidden;
+  background: #1F2937;
+  border: 1px solid #374151;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .textarea .message {
+  position: absolute;
+  top: 12px;
+  left: 16px;
+  width: 66px;
+  height: 24px;
+  white-space: nowrap;
+  color: #6B7280;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .button-1 {
+  position: absolute;
+  top: 251px;
+  left: 299.2px;
+  width: 169.58px;
+  height: 48px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 12px 32px 12px 32px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .main .contact .div-64 .div-65 .form .button-1 .send-message {
+  position: absolute;
+  top: 12px;
+  left: 31.79px;
+  width: 106px;
+  height: 24px;
+  white-space: nowrap;
+  color: #FFFFFF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  text-align: center;
+}
+.frame-1-first-sample-portfolio .footer {
+  position: absolute;
+  top: 3423.05px;
+  left: 0px;
+  width: 1440px;
+  height: 124px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 48px 0px 48px 0px;
+  background: rgba(31, 41, 55, 0.5);
+}
+.frame-1-first-sample-portfolio .footer .div-67 {
+  position: absolute;
+  top: 48px;
+  left: 0px;
+  width: 1440px;
+  height: 28px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .footer .div-67 .div-68 {
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  width: 1376px;
+  height: 28px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .footer .div-67 .div-68 .div-69 {
+  position: absolute;
+  top: 2px;
+  left: 0px;
+  width: 258.39px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .footer .div-67 .div-68 .div-69 .p-7 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 258.39px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .footer .div-67 .div-68 .div-69 .p-7 .text--2024-portfolio-all-rights-reserved {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 259px;
+  height: 24px;
+  white-space: nowrap;
+  color: #9CA3AF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .footer .div-67 .div-68 .div-70 {
+  position: absolute;
+  top: -0.05px;
+  left: 1271px;
+  width: 104.88px;
+  height: 28px;
+}
+.frame-1-first-sample-portfolio .nav {
+  position: absolute;
+  top: 0.05px;
+  left: 0px;
+  width: 1440px;
+  height: 65px;
+  backdrop-filter: blur(4px);
+  background: linear-gradient(0deg, rgba(0, 0, 0, 0) 0%, rgba(0, 0, 0, 0) 100%), rgba(17, 24, 39, 0.95);
+  border-width: 0px 0px 1px 0px;
+  border-style: solid;
+  border-color: #1F2937;
+}
+.frame-1-first-sample-portfolio .nav .div-71 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 1440px;
+  height: 64px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 0px 32px 0px 32px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 {
+  position: absolute;
+  top: 0px;
+  left: 32px;
+  width: 1376px;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-73 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-73 .div-74 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 32px;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-73 .div-74 .img-5 {
+  position: absolute;
+  top: 16px;
+  left: 0px;
+  width: 32px;
+  height: 32px;
+  background: url('../assets/IMG.png'), rgba(0, 0, 0, 0);
+  object-fit: cover;
+  background-size: cover;
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 {
+  position: absolute;
+  top: 0px;
+  left: 963.14px;
+  width: 412.86px;
+  height: 64px;
+  display: flex;
+  flex-direction: row;
+  justify-content: start;
+  align-items: center;
+  flex-wrap: wrap;
+  row-gap: 0px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-8 {
+  position: absolute;
+  top: 20px;
+  left: 0px;
+  width: 42.59px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-8 .about-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 43px;
+  height: 24px;
+  white-space: nowrap;
+  color: #D1D5DB;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-9 {
+  position: absolute;
+  top: 20px;
+  left: 74.59px;
+  width: 58.63px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-9 .projects-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 59px;
+  height: 24px;
+  white-space: nowrap;
+  color: #D1D5DB;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-10 {
+  position: absolute;
+  top: 20px;
+  left: 165.22px;
+  width: 37.5px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-10 .skills-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 38px;
+  height: 24px;
+  white-space: nowrap;
+  color: #D1D5DB;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-11 {
+  position: absolute;
+  top: 20px;
+  left: 234.72px;
+  width: 55.91px;
+  height: 24px;
+  background: rgba(0, 0, 0, 0);
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .a-11 .contact-1 {
+  position: absolute;
+  top: 0px;
+  left: 0px;
+  width: 56px;
+  height: 24px;
+  white-space: nowrap;
+  color: #D1D5DB;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 400;
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .button-2 {
+  position: absolute;
+  top: 12px;
+  left: 322.63px;
+  width: 90.23px;
+  height: 40px;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  justify-content: start;
+  align-items: start;
+  flex-wrap: wrap;
+  row-gap: 10px;
+  column-gap: 10px;
+  padding: 8px 16px 8px 16px;
+  background: #000000;
+}
+.frame-1-first-sample-portfolio .nav .div-71 .div-72 .div-75 .button-2 .resume {
+  position: absolute;
+  top: 8px;
+  left: 15.62px;
+  width: 59px;
+  height: 24px;
+  white-space: nowrap;
+  color: #FFFFFF;
+  font-family: "Roboto";
+  font-size: 16px;
+  line-height: 24px;
+  font-weight: 500;
+  text-align: center;
+}
