@@ -6,13 +6,13 @@
 ## 🛠 설치 및 실행 방법
 
 ### 1️⃣ 프로젝트 폴더로 이동
-bash
+```bash
 cd front
-
+```
 ### 2️⃣ 필요한 패키지 설치
-bash
+```bash
 npm install
-
+```
 ### 3️⃣ 개발 서버 실행
 bash
 npm start
@@ -41,7 +41,7 @@ npm start
 - 환경 변수 설정이 필요한 경우 .env.example을 참고해주세요
 
 ## 📜 라이센스
-MIT License
+ncaco License
 
 ## 💌 문의사항
 문제가 발생하거나 제안사항이 있으시다면 이슈를 등록해주세요!
